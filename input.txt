@@ -1,0 +1,8 @@
+set [1,2,3]
+sum [1,2,3]
+set [c,d,a]
+sum [2,3,4,5]
+reverse [1,2,3]
+palindrome tacocat
+palindrome cat
+
